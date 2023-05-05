@@ -7,6 +7,9 @@ https://github.com/cedricve/raspicam
 #### Picamera2 - (Python)
 https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf
 
+#### Potential rust crate that could be cool
+https://crates.io/crates/raspicam-rs
+
 #### Raspi camera software docs
 https://www.raspberrypi.com/documentation/computers/camera_software.html
 
